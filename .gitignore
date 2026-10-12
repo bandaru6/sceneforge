@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+results/*
+!results/.gitkeep
+*.npy
+*.ply
+*.obj
+.DS_Store
